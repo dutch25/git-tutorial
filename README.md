@@ -81,3 +81,4 @@ git branch -a
 git push origin --delete abc
 23. Kiểm tra branch đã bị xóa
 git branch -a
+24. Done
